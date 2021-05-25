@@ -1,0 +1,14 @@
+body {
+    background-color: dodgerblue;
+}
+h1 {
+    font-size: 30px !important;
+    width: 70%;
+}
+b ,#object_name,#object_accuracy{
+    color: rgb(255, 255, 255);
+
+}
+label {
+    font-size:22px;
+}
